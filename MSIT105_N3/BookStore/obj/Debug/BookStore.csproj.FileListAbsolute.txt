@@ -1,0 +1,204 @@
+C:\Users\III\Desktop\search\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\III\Desktop\search\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\III\Desktop\search\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\III\Desktop\search\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\search\BookStore\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\III\Desktop\search\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\III\Desktop\search\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\search\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\III\Desktop\search\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\III\Desktop\search\BookStore\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\III\Desktop\albert\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.exe
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.pdb
+F:\C# 專題檔\albert\BookStore\bin\Debug\BookStore.exe.config
+F:\C# 專題檔\albert\BookStore\obj\Debug\BookStore.exe
+F:\C# 專題檔\albert\BookStore\obj\Debug\BookStore.pdb
+C:\Users\III\Desktop\albert\BookStore\bin\Debug\BookStore.exe
+C:\Users\III\Desktop\albert\BookStore\bin\Debug\BookStore.pdb
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\修改員工資料.Form1.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\員工權限.權限設定.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\設定員工資料.Form1.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡審核.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\Absence.Absence_Ying.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\BookStore.FrmResponsible.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\Form_Verify.Frm_Verify_2_Annabel.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\Form_Verify.Frm_Verify_Annabel.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\Form_Verify.Frm_Verify_Holiday_Annabel.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\Form_Verify.Frm_Verify_Manager.resources
+C:\Users\III\Desktop\albert\BookStore\obj\Debug\Form_Verify.Frm_Verify_Process_Annabel.resources
+C:\Users\III\Desktop\專題(合併)\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\III\Desktop\專題(合併)\BookStore\obj\Debug\BookStore.exe
+C:\Users\III\Desktop\專題(合併)\BookStore\obj\Debug\BookStore.pdb
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.exe
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.pdb
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\BookStore.exe
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\BookStore.pdb
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\Form_Verify.Frm_Verify_2_Annabel.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Annabel.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Holiday_Annabel.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Manager.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Process_Annabel.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\Absence.Absence_Ying.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.FrmResponsible.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡審核.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\修改員工資料.Form1.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\員工權限.權限設定.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\設定員工資料.Form1.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\專題\專題(合併)\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\BookStore.exe
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\BookStore.pdb
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\專題(原始黨)\BookStore\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\Form_Verify.Frm_Verify_2_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Holiday_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Manager.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\Form_Verify.Frm_Verify_Process_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\Absence.Absence_Ying.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.FrmResponsible.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡審核.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\修改員工資料.Form1.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\員工權限.權限設定.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\設定員工資料.Form1.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.exe
+C:\Users\III\Desktop\專題(原始黨)\BookStore\obj\Debug\BookStore.pdb
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\BookStore.exe
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\BookStore.pdb
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_2_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Holiday_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Manager.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Process_Annabel.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\Absence.Absence_Ying.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.FrmResponsible.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡審核.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\修改員工資料.Form1.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\員工權限.權限設定.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\設定員工資料.Form1.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.exe
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.pdb
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreObject .mdf
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreObject _log.ldf
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\BookStore.exe
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\BookStore.pdb
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreEntityModel.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_2_Annabel.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Annabel.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Holiday_Annabel.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Manager.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\Form_Verify.Frm_Verify_Process_Annabel.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\Absence.Absence_Ying.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡審核.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\修改員工資料.Form1.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\員工權限.權限設定.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\設定員工資料.Form1.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.請假系統.FrmResponsible_Ying.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.請假系統.FrmYesNo.resources
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.exe
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.pdb
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStore\obj\Debug\BookStore.請假系統_Ying.FrmBigPicture.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\BookStore.exe
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\BookStore.pdb
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\Form_Verify.Frm_Verify_2_Annabel.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\Form_Verify.Frm_Verify_Annabel.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\Form_Verify.Frm_Verify_Holiday_Annabel.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\Form_Verify.Frm_Verify_Manager.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\Form_Verify.Frm_Verify_Process_Annabel.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\Absence.Absence_Ying.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\WindowsFormsApplication1.frm打卡審核.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\修改員工資料.Form1.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\員工權限.權限設定.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\設定員工資料.Form1.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.請假系統_Ying.FrmBigPicture.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.請假系統.FrmResponsible_Ying.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.請假系統.FrmYesNo.resources
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.exe
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStore\obj\Debug\BookStore.pdb

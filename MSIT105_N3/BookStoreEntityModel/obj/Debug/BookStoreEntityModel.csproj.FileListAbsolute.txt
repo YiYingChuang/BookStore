@@ -1,0 +1,65 @@
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll.config
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題\專題(合併)\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll.config
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題(原始黨)\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll.config
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\專題(原始黨) - 複製\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.pdb
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreObject .mdf
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreObject _log.ldf
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll.config
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.dll
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.pdb
+C:\Users\David\Desktop\BookStore\專題(原始黨) - 複製\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\BookStoreObject .mdf
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\BookStoreObject _log.ldf
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll.config
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\BookStoreEntityModel.pdb
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.dll
+C:\Users\III\Desktop\新增資料夾 (3)\BookStore\專題\BookStoreEntityModel\obj\Debug\BookStoreEntityModel.pdb
